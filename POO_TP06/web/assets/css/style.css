@@ -1,0 +1,79 @@
+/* 
+    Created on : 28/05/2017, 15:10:59
+    Author     : Jonatas Lopes
+*/
+
+.cor{
+    background-color: #212121;
+    color: #fff;
+}
+
+#pagina-index{
+    margin-bottom: 50px;
+}
+
+#footer{
+    height: 80px;
+    text-align: center;
+}
+
+ul.nav li a{
+    text-align: center;
+}
+
+.col-md-8{
+    width: 67.3%;
+}
+
+#quiz, #ranking, #sobre{
+    border: 2px solid #039BE5;
+    margin: 3px;
+    background-color: #039BE5;
+    color: #FFF;
+}
+
+#quiz:hover, #ranking:hover, #sobre:hover{
+    border-color: #FFF;
+}
+
+#quiz, #ranking{
+    height: 300px;
+}
+
+#quiz label, #ranking label{
+    margin-top: 50px;
+}
+
+#quiz i, #ranking i{
+    margin-top: 60px;
+    margin-left: 60px;
+    font-size: 160px;
+}
+
+#sobre{
+    height: 200px;
+}
+
+#sobre label{
+    margin-top: 5px;
+}
+
+#sobre i{
+    margin-top: 10px;
+    margin-left: 200px;
+    font-size: 160px;
+}
+
+#menu-index{
+    margin-top: 50px;
+}
+
+#menu-index label{
+    text-align: center;
+}
+
+#texto-index{
+    margin-top: 20%;
+    font-size: 50px;
+    text-align: center;
+}

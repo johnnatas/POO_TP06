@@ -1,0 +1,17 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<script src='assets/vendor/jquery/jquery-3.2.1.min.js'></script>
+<script src='assets/vendor/semantic/dist/semantic.min.js'></script>
+        <script>
+            $('#toggle').click(function(){
+                $('.ui.sidebar').sidebar('toggle');
+            });
+        </script>
+        <script>
+            $('.card').hide().transition({
+                debug: true,
+                animation: 'swing down',
+                duration: 1000,
+                interval: 200
+            });
+        </script>
