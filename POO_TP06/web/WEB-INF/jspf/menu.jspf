@@ -22,7 +22,7 @@
                     </a>
                 </li>
                 <li class="col-md-3">
-                    <a href="quiz.jsp">
+                    <a href="inicio-quiz.jsp">
                         <i class="fa fa-check-square-o" aria-hidden="true"></i> Quiz
                     </a>
                 </li>

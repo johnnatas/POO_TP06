@@ -22,7 +22,7 @@
             </div>
             <div class="col-md-7 col-md-offset-1" id="menu-index">
                 <div class="row">
-                    <a href="quiz.jsp">
+                    <a href="inicio-quiz.jsp">
                         <div class="col-md-5" id="quiz">
                             <div class="row">
                                 <div class="col-md-12">
